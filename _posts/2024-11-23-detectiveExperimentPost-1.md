@@ -2,7 +2,8 @@
 layout: post
 title:  "The Frame of Reference: Solving Detective Stories with AI - #1"
 date:   2024-11-23 10:27:24 -0400
-
+tags: ai genre
+categories: blog
 ---
 
 <img align="right" alt="Holme's Speckled Band" src="https://media.licdn.com/dms/image/D5612AQHA__wDIO-E5w/article-cover_image-shrink_600_2000/0/1687677533378?e=2147483647&v=beta&t=Zbsh4vgwQwMZZRhEwxdGpvPefp0eQUj1yrPHO1_LgO0">

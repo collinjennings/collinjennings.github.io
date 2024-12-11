@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Privacy Performed at Scale"
+title:  "Privacy Performed at Scale - A Critical Potluck"
 date:   2016-10-04 10:27:24 -0400
 
 ---
+*With significant planning assistance from Gretta Tritch Roman and potluck contributions from Maria Cecire, Adhaar Desai, Miriam Felton-Dansky, and Natalie Desrosiers.*
+
 You wear a Fitbit during your jog in the morning, swipe your grocery loyalty card when you checkout in the evening, and share your contacts when you play Candy Crush at night. This “Internet of Things” offers automation, customization, and convenience and, in turn, demands access. The daily choices to allow access or not repeatedly require you to produce the contours of your private life, to open certain spaces and keep others closed. In this collaborative potluck, we asked: how do those contours take shape? (If your first question, is what the heck is a critical potluck? In short, it's a workshop-like collaborative event; this one was held on September 15 at Bard. Check our handy [guide]({{site.baseurl}}/criticalPotluck.html) for more details.) 
 
 We began with an object of inquiry: Part 4 of the [Pew Research Center’s Internet Survey](http://www.pewinternet.org/datasets/jan-27-feb-16-2015-privacy-panel-4/). It was conducted on 461 participants between Jan. 27 and Feb. 16, 2015. The survey offers a snapshot of how people face the ever-growing number of technologies and products that make claims upon various types of private information (from your Google search history to your average driving speed). Pew released the survey data with [summary analysis](http://www.pewinternet.org/2016/01/14/privacy-and-information-sharing/) that provides a glimpse of the general sentiments of respondents. (Hover over the pie charts to see the corresponding questions.)
@@ -47,7 +49,6 @@ Even outside of the workplace, screens prescribe conditions of attention and use
 
 In the emergent environment of digital media, privacy cannot properly be delimited to a physical space (although the vehement rejections of any type of home monitoring in the survey responses indicate that this circumstance has not been accepted calmly). Being connected creates a paradoxical condition for privacy. As media theorist Wendy Chun suggests, “Internet users are curiously inside out — they are framed as private subjects exposed in public.”[<sup>4</sup>](#fn3)<a href='#fn3'></a> Digital media is governed by a “logic of containment, which is always imagined as already transgressed” (13). The word *imagined* is key here. Private material, data, information is distributed, networked, and re-sold to the point that we can really only imagine the borders of our private lives. The concept of privacy might then be more accurately located in the context of performance, play, heuristic, or supposition, rather than in Arendt’s four walls. It is fluid and demands to be continually re-defined, re-constituted, and re-imagined. 
 
-*With significant planning assistance from Gretta Tritch Roman and potluck contributions from Maria Cecire, Adhaar Desai, Miriam Felton-Dansky, and Natalie Desrosiers.*
 
 ## References
 

@@ -2,6 +2,8 @@
 layout: post
 title:  "Mining Your Search Results"
 date:   2016-04-25 10:27:24 -0400
+categories: blog
+tags: text-analysis surveillance 
 
 ---
 !['logo']({{site.baseurl}}/assets/search_logo.jpg)
